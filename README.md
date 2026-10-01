@@ -8,10 +8,12 @@ Sistem informasi berbasis web yang responsif untuk mengelola transaksi penjualan
 
 - **Dosen Pengampu:** Ibu Cut Alna Fadila
 - **Sponsor / Pemilik Usaha:** Furqan Nul Fatah (Owner Klinik Ban Langsa)
-- **Anggota Tim:**
-  - **Muhammad Fitra Fuadi** — Project Manager
-  - **Ammra Musharra Akbharieq** — Developer
-  - **Muhammad Rizal Syahrul Ramadhan** — Developer
+
+| Nama | Peran |
+| :--- | :--- |
+| Muhammad Fitra Fuadi | Project Manager |
+| Ammra Musharra Akbharieq | Developer |
+| Muhammad Rizal Syahrul Ramadhan | Developer |
 
 ---
 
