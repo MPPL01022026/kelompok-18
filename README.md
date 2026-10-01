@@ -44,7 +44,12 @@ Sistem informasi berbasis web yang responsif untuk mengelola transaksi penjualan
 
 ---
 
-## Panduan Menjalankan Proyek (Development)
+## Manajemen Proyek
+
+Aktivitas pengerjaan tugas dan alur sprint tim dipantau melalui Trello board berikut:
+- [Trello Board - Klinik Ban Langsa](https://trello.com/b/aEOFUulL/klinik-ban-langsa)
+
+---
 
 ### Prasyarat
 - Node.js (versi 18 ke atas)
