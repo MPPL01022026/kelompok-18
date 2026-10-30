@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/branding/readme-banner.gif" width="100%" alt="Klinik Ban Langsa — ban melaju dengan efek api" />
+</p>
+
 # Klinik Ban Langsa (Sistem Informasi Penjualan, Stok, dan Layanan)
 
 Sistem informasi berbasis web yang responsif untuk mengelola transaksi penjualan produk ban dan oli, pencatatan layanan servis, manajemen stok inventaris, serta riwayat servis pelanggan pada bengkel Klinik Ban Langsa.
@@ -9,11 +13,25 @@ Sistem informasi berbasis web yang responsif untuk mengelola transaksi penjualan
 - **Dosen Pengampu:** Ibu Cut Alna Fadila
 - **Sponsor / Pemilik Usaha:** Furqan Nul Fatah (Owner Klinik Ban Langsa)
 
-| Nama | Peran |
-| :--- | :--- |
-| Muhammad Fitra Fuadi | Project Manager |
-| Ammra Musharra Akbharieq | Developer |
-| Muhammad Rizal Syahrul Ramadhan | Developer |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/team/muhammad-fitra-fuadi.gif" width="210" alt="Avatar Muhammad Fitra Fuadi" /><br />
+      <strong>Muhammad Fitra Fuadi</strong><br />
+      <sub>Project Manager</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/team/ammra-musharra-akhbharieq.gif" width="210" alt="Avatar Ammra Musharra Akbharieq" /><br />
+      <strong>Ammra Musharra Akbharieq</strong><br />
+      <sub>Developer</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/team/muhammad-rizal-syahrul-ramadhan.gif" width="210" alt="Avatar Muhammad Rizal Syahrul Ramadhan" /><br />
+      <strong>Muhammad Rizal Syahrul Ramadhan</strong><br />
+      <sub>Developer</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
