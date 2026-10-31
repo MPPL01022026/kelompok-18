@@ -1,11 +1,5 @@
 # 🏁 Laporan Akhir Proyek — Klinik Ban Langsa
 
-> **Kelompok 18 — MPPL**  
-> Dosen Pengampu: Ibu Cut Alna Fadila  
-> Sponsor: Furqan Nul Fatah (Owner Klinik Ban Langsa)  
-> Versi dokumen: 1.0 | Tanggal: 31 Oktober 2026
-
----
 
 ## 1. Ringkasan Eksekutif
 
@@ -125,4 +119,4 @@ Proyek Klinik Ban Langsa telah berhasil menghasilkan sistem informasi yang fungs
 
 ---
 
-*Dokumen ini adalah laporan akhir proyek Klinik Ban Langsa — Kelompok 18 MPPL.*
+
