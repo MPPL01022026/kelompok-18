@@ -1,10 +1,6 @@
 # 💰 Project Cost Estimation — Klinik Ban Langsa
 
-> **Kelompok 18 — MPPL**  
-> Dosen Pengampu: Ibu Cut Alna Fadila  
-> Versi dokumen: 1.0 | Tanggal: 31 Oktober 2026
 
----
 
 ## 1. Asumsi Biaya
 
@@ -90,4 +86,4 @@ Contingency      ███░░░░░░░░░░░░░░░░░░
 
 ---
 
-*Dokumen ini akan diperbarui jika ada perubahan anggaran atau penambahan layanan berbayar.*
+
