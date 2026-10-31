@@ -119,4 +119,4 @@ Total durasi jalur kritis: **63 hari**. Keterlambatan pada salah satu aktivitas 
 
 ---
 
-*Dokumen ini akan diperbarui sesuai progress proyek. Perubahan jadwal didokumentasikan pada [Change Log](./08-change-log.md).*
+
