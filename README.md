@@ -39,10 +39,10 @@ Sistem informasi berbasis web yang responsif untuk mengelola transaksi penjualan
 
 - **Login Multi-Role:** Pembagian hak akses antara Pemilik (Admin) dan Kasir.
 - **Master Data:** Pengelolaan katalog produk (ban luar, ban dalam, oli), jenis layanan (tambal tip top, hot press, vacum gun, tambal dalam, ganti oli), dan data pelanggan.
-- **Transaksi & Cetak Nota:** Pencatatan transaksi penjualan produk dan jasa secara atomik, pemotongan stok otomatis, serta cetak nota kasir.
+- **Transaksi dan Cetak Nota:** Pencatatan transaksi penjualan produk dan jasa secara atomik, pemotongan stok otomatis, serta cetak nota kasir.
 - **Manajemen Stok:** Pemantauan stok terkini, pencatatan stok masuk dari pemasok, dan peringatan stok menipis.
-- **Riwayat Servis & Pengingat Ganti Oli:** Penyimpanan riwayat servis kendaraan pelanggan dan penentuan jadwal ganti oli berikutnya.
-- **Dashboard & Laporan:** Laporan penjualan harian/bulanan, posisi dan mutasi stok, serta rekap pendapatan jasa.
+- **Riwayat Servis dan Pengingat Ganti Oli:** Penyimpanan riwayat servis kendaraan pelanggan dan penentuan jadwal ganti oli berikutnya.
+- **Dashboard dan Laporan:** Laporan penjualan harian/bulanan, posisi dan mutasi stok, serta rekap pendapatan jasa.
 
 ---
 
