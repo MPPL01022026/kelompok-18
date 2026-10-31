@@ -1,10 +1,6 @@
 # 📝 Change Log — Klinik Ban Langsa
 
-> **Kelompok 18 — MPPL**  
-> Dosen Pengampu: Ibu Cut Alna Fadila  
-> Versi dokumen: 1.0 | Tanggal: 31 Oktober 2026
 
----
 
 ## Riwayat Perubahan Proyek
 
@@ -86,4 +82,4 @@ Log ini mencatat semua perubahan signifikan pada ruang lingkup, jadwal, anggaran
 
 ---
 
-*Setiap change request baru harus diajukan melalui PM dan didokumentasikan di sini sebelum implementasi dimulai.*
+
