@@ -1,10 +1,6 @@
 # 🎯 Rencana Evaluasi Proyek — Klinik Ban Langsa
 
-> **Kelompok 18 — MPPL**  
-> Dosen Pengampu: Ibu Cut Alna Fadila  
-> Versi dokumen: 1.0 | Tanggal: 31 Oktober 2026
 
----
 
 ## 1. Tujuan Evaluasi
 
@@ -112,4 +108,4 @@ Laporan evaluasi akhir akan mencakup:
 
 ---
 
-*Hasil evaluasi aktual dicatat pada [Tracking & Monitoring](./07-tracking-monitoring.md).*
+
