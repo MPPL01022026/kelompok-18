@@ -1,10 +1,5 @@
 # 📊 Estimation (Manday) — Klinik Ban Langsa
 
-> **Kelompok 18 — MPPL**  
-> Dosen Pengampu: Ibu Cut Alna Fadila  
-> Versi dokumen: 1.0 | Tanggal: 31 Oktober 2026
-
----
 
 ## 1. Asumsi Estimasi
 
@@ -73,4 +68,4 @@
 
 ---
 
-*Perbandingan estimasi vs realisasi manday didokumentasikan pada [Tracking & Monitoring](./07-tracking-monitoring.md).*
+
