@@ -98,4 +98,4 @@
 
 ---
 
-*Dokumen ini akan diperbarui jika ada perubahan komposisi atau alokasi tim.*
+
